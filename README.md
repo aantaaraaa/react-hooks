@@ -1,4 +1,4 @@
-# React Hooks Practice (Educational Repository)
+# React Hooks Practice 
 
 This repo is my learning space to better understand **React’s functional patterns**, **state management**, and **modern component architecture**.  
 It also serves as an educational reference: documenting *what hooks are*, *why they were introduced*, and *how they transformed React development*.

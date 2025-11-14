@@ -62,3 +62,8 @@ Memoization hooks like `useMemo` and `useCallback` help control unnecessary re-r
 - Experiment with performance optimizations  
 - Document insights and learning notes  
 - Provide an educational reference for others learning Hooks
+
+## 🛠️ Tech Stack
+- React (Functional Components)
+- Vite 
+- JavaScript

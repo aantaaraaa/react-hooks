@@ -18,7 +18,7 @@ Common hooks include:
 - `useReducer` – Advanced or centralized state logic  
 - `useRef` – Mutable values & DOM references  
 - `useMemo` / `useCallback` – Performance optimization  
-- **Custom Hooks** – Reusable logic extracted from components
+- `Custom Hooks`– Reusable logic extracted from components
 
 ---
 

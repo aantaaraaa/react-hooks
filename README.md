@@ -1,1 +1,1 @@
-# react-hooks
+This repo is my learning space to better understand React’s functional patterns, state management, and modern component architecture.

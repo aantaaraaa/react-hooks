@@ -17,6 +17,10 @@ function App() {
       <ModifyDom />
       <SquareNumber />
       <CounterCallback />
+      <ColorProvider>
+      <ColorButtons />
+      <ColorBox />
+      </ColorProvider>
     </>
   );
 }

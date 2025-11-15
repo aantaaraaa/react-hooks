@@ -6,6 +6,9 @@ import AutoCounter from "./hooks-practice/useEffect/AutoCounter";
 import ModifyDom from "./hooks-practice/useRef/ModifyDom";
 import SquareNumber from "./hooks-practice/useMemo/SquareNumber";
 import CounterCallback from "./hooks-practice/useCallback/CounterCallback";
+import ColorProvider from "./hooks-practice/useContext/ColorProvider";
+import ColorButtons from "./hooks-practice/useContext/ColorButtons";
+import ColorBox from "./hooks-practice/useContext/ColorBox";
 
 function App() {
   return (
@@ -20,7 +23,7 @@ function App() {
       <ColorProvider>
       <ColorButtons />
       <ColorBox />
-      </ColorProvider>
+      </ColorProvider> 
     </>
   );
 }

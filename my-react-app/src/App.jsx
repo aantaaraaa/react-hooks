@@ -9,6 +9,8 @@ import CounterCallback from "./hooks-practice/useCallback/CounterCallback";
 import ColorProvider from "./hooks-practice/useContext/ColorProvider";
 import ColorButtons from "./hooks-practice/useContext/ColorButtons";
 import ColorBox from "./hooks-practice/useContext/ColorBox";
+import CounterReducer from './hooks-practice/useReducer/CounterReducer';
+import AutoResizeBox from "./hooks-practice/useLayoutEffect/AutoResizeBox";
 
 function App() {
   return (
@@ -24,6 +26,8 @@ function App() {
       <ColorButtons />
       <ColorBox />
       </ColorProvider> 
+      <CounterReducer />
+      <AutoResizeBox />
     </>
   );
 }

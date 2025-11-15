@@ -5,6 +5,7 @@ import Counter from "./hooks-practice/useState/counter.jsx";
 import AutoCounter from "./hooks-practice/useEffect/AutoCounter";
 import ModifyDom from "./hooks-practice/useRef/ModifyDom";
 import SquareNumber from "./hooks-practice/useMemo/SquareNumber";
+import CounterCallback from "./hooks-practice/useCallback/CounterCallback";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <AutoCounter />
       <ModifyDom />
       <SquareNumber />
+      <CounterCallback />
     </>
   );
 }
